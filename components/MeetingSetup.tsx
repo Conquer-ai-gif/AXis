@@ -60,7 +60,7 @@ const MeetingSetup = ({ setIsSetupComplete }: { setIsSetupComplete: (value: bool
       </div>
 
       <Button
-        className="bg-amber-1 hover:bg-amber-4 text-black font-bold px-8 py-2.5 rounded-xl"
+        className="bg-amber-1 hover:bg-amber-4 text-white font-bold px-8 py-2.5 rounded-xl"
         onClick={() => { call.join(); setIsSetupComplete(true); }}
       >
         Join lecture
