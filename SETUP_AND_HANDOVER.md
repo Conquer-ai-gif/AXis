@@ -1,5 +1,5 @@
 # ============================================================
-# YOOM AI — COMPLETE SETUP GUIDE & HANDOVER
+# GRID — COMPLETE SETUP GUIDE & HANDOVER
 # ============================================================
 
 ## WHAT WAS BUILT IN THIS UPDATE
@@ -45,7 +45,7 @@ ADMIN_SECRET_PASSWORD=YourStrongPasswordHere
 ```
 
 Choose any password you want. Make it strong.
-Example: `ADMIN_SECRET_PASSWORD=Yoom@Admin2024!`
+Example: `ADMIN_SECRET_PASSWORD=Grid@Admin2024!`
 
 That is the ONLY setup required.
 
