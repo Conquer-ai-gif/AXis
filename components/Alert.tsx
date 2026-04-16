@@ -23,7 +23,7 @@ const Alert = ({ title, iconUrl }: AlertProps) => {
           )}
           <p className="text-center text-lg font-semibold text-text-1">{title}</p>
         </div>
-        <Button asChild className="bg-amber-1 hover:bg-amber-4 text-black font-bold">
+        <Button asChild className="bg-amber-1 hover:bg-amber-4 text-white font-bold">
           <Link href="/">Back to home</Link>
         </Button>
       </div>
