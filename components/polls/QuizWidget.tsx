@@ -76,7 +76,7 @@ export function QuizWidget({ quiz, onAnswer }: QuizWidgetProps) {
         <button
           onClick={handleSubmit}
           disabled={selected === null || timeLeft <= 0}
-          className="mt-3 w-full rounded-lg bg-amber-1 py-2 text-sm font-bold text-black disabled:opacity-40 transition-all"
+          className="mt-3 w-full rounded-lg bg-amber-1 py-2 text-sm font-bold text-white disabled:opacity-40 transition-all"
         >
           Submit answer
         </button>
